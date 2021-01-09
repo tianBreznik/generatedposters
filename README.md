@@ -4,4 +4,14 @@ This project was part of a workshop on generative posters organized by [RNDR](ht
 
 Here are a few static image examples.
 
-![](screenshots/GenerativePosters.DomesticViolenceArticle-2020-05-15-16.06.15)
+![](screenshots/GenerativePosters.DomesticViolenceArticle-2020-05-15-16.33.18.png)
+
+![](screenshots/GenerativePosters.DomesticViolenceArticle-2020-05-15-16.33.39.png)
+
+![](screenshots/GenerativePosters.DomesticViolenceArticle-2020-05-15-16.35.25.png)
+
+![](screenshots/GenerativePosters.DomesticViolenceArticle-2020-05-15-16.34.05.png)
+
+
+
+
