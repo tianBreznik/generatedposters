@@ -1,18 +1,7 @@
-# OPENRNDR template project
-A feature rich template for creating OPENRNDR programs based on Gradle/Kts
+Data-generated posters on the topic of domestic violence, using images and victim testamonies to create an intimate visual experience and hopefully invoke some simpathy and motivate research on the topic in the audience.
 
-The template consists of a configuration for Gradle and an example OPENRNDR program. The Gradle configuration should serve as the
-go-to starting point for writing OPENRNDR-based software.
+This project was part of a workshop on generative posters organized by [RNDR](https://rndr.studio/), an interactive media studio who developed their own framework for visual computing called [OpenRNDR](https://openrndr.org/) based on Kotlin. 
 
-If you are looking at this from IntelliJ IDEA you can start by expanding the _project_ tab on the left. You will find a template program in `src/main/kotlin/TemplateProgram.kt`
+Here are a few static image examples.
 
-You will find some [basic instructions](https://guide.openrndr.org/#/02_Getting_Started_with_OPENRNDR/C00_SetupYourFirstProgram) in the [OPENRNDR guide](https://guide.openrndr.org)
-
-## Gradle tasks
- - `run` runs the TemplateProgram
- - `jar` creates an executable platform specific jar file with all dependencies
- - `zipDistribution` creates a zip file containing the application jar and the data folder
-
-## Cross builds
-
-To create runnable jars for a platform different from the platform you use to build one uses `./gradlew jar --PtargetPlatform=<platform>`. The supported platforms are `windows`, `macos`, `linux-x64` and `linux-arm64`. Note that the `linux-arm64` platform will only work with OPENRNDR snapshot builds from master and OPENRNDR 0.3.39 (a future version).
+![](screenshots/GenerativePosters.DomesticViolenceArticle-2020-05-15-16.06.15)
